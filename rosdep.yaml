@@ -1,0 +1,3 @@
+autoware_control_msgs:
+  ubuntu:
+     focal: [ros-foxy-autoware-control-msgs]
