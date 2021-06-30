@@ -23,6 +23,14 @@ autoware_vehicle_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-vehicle-msgs]
 
+dummy_perception_publisher:
+  ubuntu:
+    focal: [ros-foxy-autoware-vehicle-msgs]
+    
+autoware_utils:
+  ubuntu:
+    focal: [ros-foxy-autoware-utils]
+    
 osqp_vendor:
   ubuntu:
     focal: [ros-foxy-osqp-vendor]
