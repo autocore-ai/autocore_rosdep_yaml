@@ -1,25 +1,25 @@
 autoware_control_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-control-msgs]
-autoware-debug-msgs:
+autoware_debug_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-debug-msgs]
-autoware-lanelet2-msgs:
+autoware_lanelet2_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-lanelet2-msgs]
-autoware-localization-msgs:
+autoware_localization_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-localization-msgs]
-autoware-perception-msgs:
+autoware_perception_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-perception-msgs]
-autoware-planning-msgs:
+autoware_planning_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-planning-msgs]
-autoware-system-msgs:
+autoware_system_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-system-msgs]
-autoware-vehicle-msgs:
+autoware_vehicle_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-vehicle-msgs]
 
