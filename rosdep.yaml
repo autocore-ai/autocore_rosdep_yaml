@@ -1,3 +1,6 @@
 autoware_control_msgs:
   ubuntu:
-     focal: [ros-foxy-autoware-control-msgs]
+    focal: [ros-foxy-autoware-control-msgs]
+osqp_vendor:
+  ubuntu:
+    focal: [ros-foxy-osqp-vendor]
