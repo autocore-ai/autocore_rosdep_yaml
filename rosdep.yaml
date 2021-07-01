@@ -39,3 +39,6 @@ osqp_vendor:
   ubuntu:
     focal: [ros-foxy-osqp-vendor]
  
+osqp_interface
+  ubuntu:
+    focal: [ros-foxy-osqp-interface]
