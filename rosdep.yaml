@@ -42,3 +42,7 @@ osqp_vendor:
 osqp_interface:
   ubuntu:
     focal: [ros-foxy-osqp-interface]
+
+lanelet2_extension:
+  ubuntu:
+    focal: [ros-foxy-lanelet2-extension]
