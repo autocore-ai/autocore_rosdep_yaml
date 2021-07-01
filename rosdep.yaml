@@ -25,7 +25,7 @@ autoware_vehicle_msgs:
 
 dummy_perception_publisher:
   ubuntu:
-    focal: [ros-foxy-autoware-vehicle-msgs]
+    focal: [ros-foxy-dummy-perception-publisher]
     
 autoware_utils:
   ubuntu:
