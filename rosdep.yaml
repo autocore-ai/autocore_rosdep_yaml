@@ -31,6 +31,11 @@ autoware_utils:
   ubuntu:
     focal: [ros-foxy-autoware-utils]
     
+vehicle_info_util:
+  ubuntu:
+    focal: [ros-foxy-vehicle-info-util]
+    
 osqp_vendor:
   ubuntu:
     focal: [ros-foxy-osqp-vendor]
+ 
