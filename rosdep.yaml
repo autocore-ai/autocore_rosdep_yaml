@@ -90,3 +90,8 @@ grid_map_ros:
 grid_map_cv:
   ubuntu:
     focal: [ros-foxy-grid-map-cv]
+
+
+spline_interpolation:
+  ubuntu:
+    focal: [ros-foxy-spline-interpolation]
