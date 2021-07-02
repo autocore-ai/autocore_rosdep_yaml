@@ -78,8 +78,12 @@ pcl_ros:
 grid_map_cmake_helpers:
   ubuntu:
     focal: [ros-foxy-grid-map-cmake-helpers]
-    
 grid_map_core:
   ubuntu:
-    focal: [ros-foxy-grid_map_core]
-    
+    focal: [ros-foxy-grid-map-core]
+grid_map_msgs:
+  ubuntu:
+    focal: [ros-foxy-grid-map-msgs]
+grid_map_ros:
+  ubuntu:
+    focal: [ros-foxy-grid-map-ros]
