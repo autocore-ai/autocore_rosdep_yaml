@@ -53,12 +53,12 @@ raw_vehicle_cmd_converter:
 
 rosbridge_msgs:
   ubuntu:
-     focal: [ros-foxy-rosbridge-msgs]
+    focal: [ros-foxy-rosbridge-msgs]
      
 rosbridge_library:
   ubuntu:
-     focal: [ros-foxy-rosbridge-library]
+    focal: [ros-foxy-rosbridge-library]
 
 rosapi:
   ubuntu:
-     focal: [ros-foxy-rosapi]
+    focal: [ros-foxy-rosapi]
