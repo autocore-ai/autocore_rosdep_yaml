@@ -50,3 +50,11 @@ lanelet2_extension:
 raw_vehicle_cmd_converter:
   ubuntu:
     focal: [ros-foxy-raw-vehicle-cmd-converter]
+
+rosbridge_msgs:
+  ubuntu:
+     focal: [ros-foxy-rosbridge-msgs]
+     
+rosbridge_library:
+  ubuntu:
+     focal: [ros-foxy-rosbridge-library]
