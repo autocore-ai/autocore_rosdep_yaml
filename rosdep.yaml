@@ -87,3 +87,6 @@ grid_map_msgs:
 grid_map_ros:
   ubuntu:
     focal: [ros-foxy-grid-map-ros]
+grid_map_cv:
+  ubuntu:
+    focal: [ros-foxy-grid-map-cv]
