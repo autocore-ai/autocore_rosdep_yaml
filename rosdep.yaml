@@ -62,3 +62,7 @@ rosbridge_library:
 rosapi:
   ubuntu:
     focal: [ros-foxy-rosapi]
+
+rosbridge_server:
+  ubuntu:
+    focal: [ros-foxy-rosbridge-server]
