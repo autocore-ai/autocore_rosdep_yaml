@@ -66,3 +66,7 @@ rosapi:
 rosbridge_server:
   ubuntu:
     focal: [ros-foxy-rosbridge-server]
+    
+pcl_conversions:
+  ubuntu:
+    focal: [ros-foxy-pcl-conversions]
