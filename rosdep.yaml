@@ -58,3 +58,7 @@ rosbridge_msgs:
 rosbridge_library:
   ubuntu:
      focal: [ros-foxy-rosbridge-library]
+
+rosapi:
+  ubuntu:
+     focal: [ros-foxy-rosapi]
