@@ -107,3 +107,7 @@ astar_search:
 rclcpp_generic:
   ubuntu:
     focal: [ros-foxy-rclcpp-generic]
+
+topic_tools:
+  ubuntu:
+    focal: [ros-foxy-topic-tools]
