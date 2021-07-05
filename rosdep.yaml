@@ -95,3 +95,7 @@ grid_map_cv:
 spline_interpolation:
   ubuntu:
     focal: [ros-foxy-spline-interpolation]
+
+autoware_api_msgs:
+  ubuntu:
+    focal: [ros-foxy-autoware-api-msgs]
