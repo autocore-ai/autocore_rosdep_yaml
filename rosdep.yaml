@@ -99,3 +99,7 @@ spline_interpolation:
 autoware_api_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-api-msgs]
+
+astar_search:
+  ubuntu:
+    focal: [ros-foxy-astar-search]
