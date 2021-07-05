@@ -60,6 +60,7 @@ rosbridge_server:
 pcl_conversions:
   ubuntu:
     focal: [ros-foxy-pcl-conversions]
+    bionic: [ros-melodic-pcl-conversions]
 pcl_ros:
   ubuntu:
     focal: [ros-foxy-pcl-ros]
