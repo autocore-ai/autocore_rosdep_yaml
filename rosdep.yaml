@@ -111,3 +111,6 @@ rclcpp_generic:
 topic_tools:
   ubuntu:
     focal: [ros-foxy-topic-tools]
+map_loader:
+  ubuntu:
+    focal: [ros-foxy-map-loader]
