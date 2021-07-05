@@ -22,59 +22,45 @@ autoware_system_msgs:
 autoware_vehicle_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-vehicle-msgs]
-
 dummy_perception_publisher:
   ubuntu:
     focal: [ros-foxy-dummy-perception-publisher]
-    
 autoware_utils:
   ubuntu:
     focal: [ros-foxy-autoware-utils]
-    
 vehicle_info_util:
   ubuntu:
     focal: [ros-foxy-vehicle-info-util]
-    
 osqp_vendor:
   ubuntu:
     focal: [ros-foxy-osqp-vendor]
- 
 osqp_interface:
   ubuntu:
     focal: [ros-foxy-osqp-interface]
-
 lanelet2_extension:
   ubuntu:
     focal: [ros-foxy-lanelet2-extension]
-    
 raw_vehicle_cmd_converter:
   ubuntu:
     focal: [ros-foxy-raw-vehicle-cmd-converter]
-
 rosbridge_msgs:
   ubuntu:
     focal: [ros-foxy-rosbridge-msgs]
-     
 rosbridge_library:
   ubuntu:
     focal: [ros-foxy-rosbridge-library]
-
 rosapi:
   ubuntu:
     focal: [ros-foxy-rosapi]
-
 rosbridge_server:
   ubuntu:
     focal: [ros-foxy-rosbridge-server]
-    
 pcl_conversions:
   ubuntu:
     focal: [ros-foxy-pcl-conversions]
-    
 pcl_ros:
   ubuntu:
     focal: [ros-foxy-pcl-ros]
-    
 grid_map_cmake_helpers:
   ubuntu:
     focal: [ros-foxy-grid-map-cmake-helpers]
@@ -90,27 +76,24 @@ grid_map_ros:
 grid_map_cv:
   ubuntu:
     focal: [ros-foxy-grid-map-cv]
-
-
 spline_interpolation:
   ubuntu:
     focal: [ros-foxy-spline-interpolation]
-
 autoware_api_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-api-msgs]
-
 astar_search:
   ubuntu:
     focal: [ros-foxy-astar-search]
-
 rclcpp_generic:
   ubuntu:
     focal: [ros-foxy-rclcpp-generic]
-
 topic_tools:
   ubuntu:
     focal: [ros-foxy-topic-tools]
 map_loader:
   ubuntu:
     focal: [ros-foxy-map-loader]
+simple_planning_simulator:
+  ubuntu:
+    focal: [ros-foxy-simple-planning-simulator]
