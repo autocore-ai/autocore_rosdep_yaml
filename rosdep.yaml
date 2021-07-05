@@ -7,12 +7,14 @@ autoware_debug_msgs:
 autoware_lanelet2_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-lanelet2-msgs]
+    bionic: [ros-melodic-autoware-lanelet2-msgs]
 autoware_localization_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-localization-msgs]
 autoware_perception_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-perception-msgs]
+    bionic: [ros-melodic-autoware-perception-msgs]
 autoware_planning_msgs:
   ubuntu:
     focal: [ros-foxy-autoware-planning-msgs]
