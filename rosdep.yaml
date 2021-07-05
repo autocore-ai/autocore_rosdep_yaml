@@ -63,6 +63,7 @@ pcl_conversions:
 pcl_ros:
   ubuntu:
     focal: [ros-foxy-pcl-ros]
+    bionic: [ros-melodic-pcl-ros]
 grid_map_cmake_helpers:
   ubuntu:
     focal: [ros-foxy-grid-map-cmake-helpers]
