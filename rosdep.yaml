@@ -103,3 +103,7 @@ autoware_api_msgs:
 astar_search:
   ubuntu:
     focal: [ros-foxy-astar-search]
+
+rclcpp_generic:
+  ubuntu:
+    focal: [ros-foxy-rclcpp-generic]
