@@ -42,6 +42,7 @@ osqp_interface:
 lanelet2_extension:
   ubuntu:
     focal: [ros-foxy-lanelet2-extension]
+    bionic: [ros-melodic-lanelet2-extension]
 raw_vehicle_cmd_converter:
   ubuntu:
     focal: [ros-foxy-raw-vehicle-cmd-converter]
