@@ -102,3 +102,6 @@ map_loader:
 simple_planning_simulator:
   ubuntu:
     focal: [ros-foxy-simple-planning-simulator]
+radar408obj_msg:
+  ubuntu:
+    bionic: [ros-melodic-radar408obj-msg]
