@@ -126,3 +126,6 @@ obstacle_avoidance_planner:
 motion_velocity_optimizer:
   ubuntu:
     focal: [ros-foxy-motion-velocity-optimizer]
+mission_planner:
+  ubuntu:
+    focal: [ros-foxy-mission-planner]
