@@ -120,3 +120,6 @@ scenario_selector:
 obstacle_stop_planner:
   ubuntu:
     focal: [ros-foxy-obstacle-stop-planner]
+obstacle_avoidance_planner:
+  ubuntu:
+    focal: [ros-foxy-obstacle-avoidance-planner]
