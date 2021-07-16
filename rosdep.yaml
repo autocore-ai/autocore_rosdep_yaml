@@ -111,3 +111,6 @@ pnc_msgs:
 turn_signal_decider:
   ubuntu:
     focal: [ros-foxy-ros-foxy-turn-signal-decider]
+surround_obstacle_checker:
+  ubuntu:
+    focal: [ros-foxy-surround-obstacle-checker]
