@@ -114,3 +114,6 @@ turn_signal_decider:
 surround_obstacle_checker:
   ubuntu:
     focal: [ros-foxy-surround-obstacle-checker]
+scenario_selector:
+  ubuntu:
+    focal: [ros-foxy-scenario-selector]
