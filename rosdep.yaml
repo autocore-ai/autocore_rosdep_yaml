@@ -165,3 +165,9 @@ mpc_follower:
 latlon_muxer:
   ubuntu:
     focal: [ros-foxy-latlon-muxer]
+map_tf_generator:
+  ubuntu:
+    focal: [ros-foxy-map-tf-generator]
+map_loader:
+  ubuntu:
+    focal: [ros-foxy-map-loader]
