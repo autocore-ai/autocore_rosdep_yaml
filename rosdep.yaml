@@ -177,3 +177,12 @@ velodyne_description:
 livox_description:
   ubuntu:
     focal: [ros-foxy-livox-description]
+camera_description:
+  ubuntu:
+    focal: [ros-foxy-camera-description]
+imu_description:
+  ubuntu:
+    focal: [ros-foxy-imu-description]
+simple_planning_simulator:
+  ubuntu:
+    focal: [ros-foxy-simple-planning-simulator]
