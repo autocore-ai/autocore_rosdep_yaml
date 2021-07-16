@@ -117,3 +117,6 @@ surround_obstacle_checker:
 scenario_selector:
   ubuntu:
     focal: [ros-foxy-scenario-selector]
+obstacle_stop_planner:
+  ubuntu:
+    focal: [ros-foxy-obstacle-stop-planner]
