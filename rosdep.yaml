@@ -129,3 +129,15 @@ motion_velocity_optimizer:
 mission_planner:
   ubuntu:
     focal: [ros-foxy-mission-planner]
+lane_change_planner:
+  ubuntu:
+    focal: [ros-foxy-lane-change-planner]
+freespace_planner:
+  ubuntu:
+    focal: [ros-foxy-freespace-planner]
+costmap_generator:
+  ubuntu:
+    focal: [ros-foxy-costmap-generator]
+behavior_velocity_planner:
+  ubuntu:
+    focal: [ros-foxy-behavior-velocity-planner]
