@@ -141,3 +141,27 @@ costmap_generator:
 behavior_velocity_planner:
   ubuntu:
     focal: [ros-foxy-behavior-velocity-planner]
+lane_departure_checker:
+  ubuntu:
+    focal: [ros-foxy-lane-departure-checker]
+velocity_controller:
+  ubuntu:
+    focal: [ros-foxy-velocity-controller]
+vehicle_cmd_gate:
+  ubuntu:
+    focal: [ros-foxy-vehicle-cmd-gate]
+shift_decider:
+  ubuntu:
+    focal: [ros-foxy-shift-decider]
+remote_cmd_converter:
+  ubuntu:
+    focal: [ros-foxy-remote-cmd-converter]
+pure_pursuit:
+  ubuntu:
+    focal: [ros-foxy-pure-pursuit]
+mpc_follower:
+  ubuntu:
+    focal: [ros-foxy-mpc-follower]
+latlon_muxer:
+  ubuntu:
+    focal: [ros-foxy-latlon-muxer]
