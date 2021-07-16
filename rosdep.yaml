@@ -171,3 +171,6 @@ map_tf_generator:
 map_loader:
   ubuntu:
     focal: [ros-foxy-map-loader]
+velodyne_description:
+  ubuntu:
+    focal: [ros-foxy-velodyne-description]
