@@ -174,3 +174,6 @@ map_loader:
 velodyne_description:
   ubuntu:
     focal: [ros-foxy-velodyne-description]
+livox_description:
+  ubuntu:
+    focal: [ros-foxy-livox-description]
