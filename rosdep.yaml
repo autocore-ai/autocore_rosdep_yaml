@@ -108,3 +108,6 @@ radar408obj_msg:
 pnc_msgs:
   ubuntu:
     focal: [ros-foxy-pnc-msgs]
+turn_signal_decider:
+  ubuntu:
+    forcal: [ros-foxy-ros-foxy-turn-signal-decider]
