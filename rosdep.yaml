@@ -105,3 +105,6 @@ simple_planning_simulator:
 radar408obj_msg:
   ubuntu:
     bionic: [ros-melodic-radar408obj-msg]
+pnc_msgs:
+  ubuntu:
+    focal: [ros-foxy-pnc-msgs]
