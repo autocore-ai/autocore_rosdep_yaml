@@ -198,3 +198,6 @@ planning_launch:
 map_launch:
   ubuntu:
     focal: [ros-foxy-map-launch]
+control_launch:
+  ubuntu:
+    focal: [ros-foxy-control-launch]
