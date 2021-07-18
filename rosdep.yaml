@@ -186,3 +186,6 @@ imu_description:
 simple_planning_simulator:
   ubuntu:
     focal: [ros-foxy-simple-planning-simulator]
+autoware_web_controller:
+  ubuntu:
+    focal: [ros-foxy-autoware-web-controller]
