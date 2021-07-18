@@ -195,3 +195,6 @@ vehicle_launch:
 planning_launch:
   ubuntu:
     focal: [ros-foxy-planning-launch]
+map_launch:
+  ubuntu:
+    focal: [ros-foxy-map-launch]
