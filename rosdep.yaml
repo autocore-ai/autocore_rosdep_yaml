@@ -189,3 +189,6 @@ simple_planning_simulator:
 autoware_web_controller:
   ubuntu:
     focal: [ros-foxy-autoware-web-controller]
+vehicle_launch:
+  ubuntu:
+    focal: [ros-foxy-vehicle-launch]
