@@ -201,3 +201,6 @@ map_launch:
 control_launch:
   ubuntu:
     focal: [ros-foxy-control-launch]
+lexus_description:
+  ubuntu:
+    focal: [ros-foxy-lexus-description]
