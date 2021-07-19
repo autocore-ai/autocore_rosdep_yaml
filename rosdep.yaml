@@ -204,3 +204,6 @@ control_launch:
 lexus_description:
   ubuntu:
     focal: [ros-foxy-lexus-description]
+autoware_state_monitor:
+  ubuntu:
+    focal: [ros-foxy-autoware-state-monitor]
