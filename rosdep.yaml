@@ -210,7 +210,10 @@ autoware_state_monitor:
 awapi_awiv_adapter:
   ubuntu:
     focal: [ros-foxy-awapi-awiv-adapter]
-
+# test tools
+openscenario_msgs:
+  ubuntu:
+    focal: [ros-foxy-openscenario-msgs]
 simulation_interface:
   ubuntu:
     focal: [ros-foxy-simulation-interface]
