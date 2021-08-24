@@ -223,3 +223,6 @@ scenario_simulator_exception:
 quaternion_operation:
   ubuntu:
     focal: [ros-foxy-quaternion-operation]
+lanelet2_extension_psim:
+  ubuntu:
+    focal: [ros-foxy-lanelet2-extension-psim]
