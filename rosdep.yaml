@@ -220,6 +220,9 @@ simulation_interface:
 scenario_simulator_exception:
   ubuntu:
     focal: [ros-foxy-scenario-simulator-exception]
+simple_sensor_simulator:
+  ubuntu:
+    focal: [ros-foxy-simple-sensor-simulator]
 quaternion_operation:
   ubuntu:
     focal: [ros-foxy-quaternion-operation]
@@ -229,3 +232,9 @@ lanelet2_extension_psim:
 concealer:
   ubuntu:
     focal: [ros-foxy-concealer]
+cargo_delivery:
+  ubuntu:
+    focal: [ros-foxy-cargo-delivery]
+traffic_simulator:
+  ubuntu:
+    focal: [ros-foxy-traffic-simulator]
