@@ -210,3 +210,10 @@ autoware_state_monitor:
 awapi_awiv_adapter:
   ubuntu:
     focal: [ros-foxy-awapi-awiv-adapter]
+
+simulation_interface:
+  ubuntu:
+    focal: [ros-foxy-simulation-interface]
+scenario_simulator_exception:
+  ubuntu:
+    focal: [ros-foxy-scenario-simulator-exception]
