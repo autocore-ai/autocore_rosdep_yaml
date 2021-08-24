@@ -226,3 +226,6 @@ quaternion_operation:
 lanelet2_extension_psim:
   ubuntu:
     focal: [ros-foxy-lanelet2-extension-psim]
+concealer:
+  ubuntu:
+    focal: [ros-foxy-concealer]
