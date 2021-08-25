@@ -204,6 +204,9 @@ vehicle_info_param_server:
 individual_params:
   ubuntu:
     focal: [ros-foxy-individual-params]
+autoware_localization_srvs:
+  ubuntu:
+    focal: [ros-foxy-autoware-localization-srvs]
 planning_launch:
   ubuntu:
     focal: [ros-foxy-planning-launch]
