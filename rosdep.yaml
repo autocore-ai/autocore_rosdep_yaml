@@ -228,6 +228,21 @@ demo_map:
 autoware_launch:
   ubuntu:
     focal: [ros-foxy-autoware-launch]
+autoware_localization_rviz_plugin:
+  ubuntu:
+    focal: [ros-foxy-autoware-localization-rviz-plugin]
+autoware_perception_rviz_plugin:
+  ubuntu:
+    focal: [ros-foxy-autoware-perception-rviz-plugin]
+autoware_planning_rviz_plugin:
+  ubuntu:
+    focal: [ros-foxy-autoware-planning-rviz-plugin]
+autoware_vehicle_rviz_plugin:
+  ubuntu:
+    focal: [ros-foxy-autoware-vehicle-rviz-plugin]
+initial_pose_button_panel:
+  ubuntu:
+    focal: [ros-foxy-initial-pose-button-panel]
 # test tools
 openscenario_msgs:
   ubuntu:
