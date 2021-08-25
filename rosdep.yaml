@@ -192,6 +192,9 @@ autoware_web_controller:
 vehicle_launch:
   ubuntu:
     focal: [ros-foxy-vehicle-launch]
+vehicle_info_param_server:
+  ubuntu:
+    focal: [ros-foxy-vehicle-info-param-server]
 planning_launch:
   ubuntu:
     focal: [ros-foxy-planning-launch]
