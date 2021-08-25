@@ -213,6 +213,9 @@ awapi_awiv_adapter:
 demo_map:
   ubuntu:
     focal: [ros-foxy-demo-map]
+autoware_launch:
+  ubuntu:
+    focal: [ros-foxy-autoware-launch]
 # test tools
 openscenario_msgs:
   ubuntu:
