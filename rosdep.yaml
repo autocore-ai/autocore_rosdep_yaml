@@ -195,6 +195,9 @@ vehicle_launch:
 vehicle_info_param_server:
   ubuntu:
     focal: [ros-foxy-vehicle-info-param-server]
+individual_params:
+  ubuntu:
+    focal: [ros-foxy-individual-params]
 planning_launch:
   ubuntu:
     focal: [ros-foxy-planning-launch]
