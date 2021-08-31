@@ -289,3 +289,6 @@ autoware_version:
 autoware_error_monitor:
   ubuntu:
     focal: [ros-foxy-autoware-error-monitor]
+system_launch:
+  ubuntu:
+    focal: [ros-foxy-autoware-system-launch]
