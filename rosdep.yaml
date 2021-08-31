@@ -283,3 +283,6 @@ system_monitor:
 emergency_handler:
   ubuntu:
     focal: [ros-foxy-emergency-handler]
+autoware_error_monitor:
+  ubuntu:
+    focal: [ros-foxy-autoware-error-monitor]
