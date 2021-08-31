@@ -274,3 +274,9 @@ cargo_delivery:
 traffic_simulator:
   ubuntu:
     focal: [ros-foxy-traffic-simulator]
+traffic_simulator:
+  ubuntu:
+    focal: [ros-foxy-traffic-simulator]
+system_monitor:
+  ubuntu:
+    focal: [ros-foxy-system-monitor]
