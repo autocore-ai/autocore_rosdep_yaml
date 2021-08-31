@@ -280,3 +280,6 @@ traffic_simulator:
 system_monitor:
   ubuntu:
     focal: [ros-foxy-system-monitor]
+emergency_handler:
+  ubuntu:
+    focal: [ros-foxy-emergency-handler]
